@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="16dp"
+    android:background="#B8B8B8">
+
+
+    <View
+        android:layout_width="164dp"
+        android:layout_height="164dp"
+        android:background="@color/purple_700"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="16dp"/>
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:background="#6E008373"
+        android:padding="32dp"
+        android:text="Te amo !EBQ¡"
+        android:textAlignment="viewEnd"
+        android:textColor="@color/white" />
+
+    <View
+        android:layout_width="64dp"
+        android:layout_height="64dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="16dp"
+        android:background="@color/white" />
+
+
+</FrameLayout>
